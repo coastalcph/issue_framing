@@ -21,7 +21,7 @@ e.g. python3 models/run_dialogue_experiments_mtl_adversarial.py --num_layers 2 -
 
 
 
-If you have questions or wish to obtain the Media Frames data please contact the authors at hartmann.cl.uni-heidelberg.de<br/>
+If you have questions or wish to obtain the Media Frames data please contact the authors at hartmann@di.ku.dk<br/>
 
 Please cite the paper as<br/>
 
